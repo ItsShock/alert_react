@@ -16,7 +16,7 @@ class AlertBar extends React.Component {
   render() {
     if (this.state.isVisible) {
       return <div>
-      <p>dasda</p>
+      <h1>5</h1>
       <button onClick={this.hideBar}>dsada</button>
     </div>
     } else {
